@@ -48,11 +48,11 @@ The dataset file (`diabetic_data.csv`) is included in this repository for reprod
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mahdi2382/Cambridge_Assignments.git
-cd Cambridge_Assignments
+git clone https://github.com/mahdi2382/Module_5.git
+cd Module_5
 ```
 
-### 2. Set up a Python environment (Python 3.11+ required; tested on 3.11–3.13)
+### 2. Set up a Python environment (Python 3.11+ required; tested on 3.11–3.14)
 ```bash
 python -m venv venv
 source venv/bin/activate          # Mac/Linux

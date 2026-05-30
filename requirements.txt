@@ -1,4 +1,4 @@
-# Python 3.11+ required (tested on Python 3.11–3.13)
+# Python 3.11+ required (tested on Python 3.11–3.14)
 #
 # These are the versions the analysis was developed and tested against.
 # To reproduce the exact environment, install the pinned versions below.
@@ -11,6 +11,6 @@ scikit-learn==1.8.0    # >=1.4   (note: import name is "sklearn"; PyPI name is "
 scipy==1.17.1          # >=1.11
 matplotlib==3.10.9     # >=3.8
 seaborn==0.13.2        # >=0.13
-shap==0.49.1           # >=0.44
+shap>=0.51.0           # 0.51+ ships prebuilt wheels for Python 3.14; earlier pins compile from source
 xgboost==3.2.0         # >=2.0
 jupyter==1.1.1         # to run the notebook
