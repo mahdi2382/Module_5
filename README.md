@@ -72,7 +72,9 @@ jupyter notebook diabetes_readmission_improved.ipynb
 ```
 
 In Jupyter: **Kernel → Restart Kernel and Run All Cells**. Full pipeline runs end-to-end in approximately 10–15 minutes on a standard laptop.
-
+> To view the notebook with outputs: 
+[Open in Colab]
+(https://colab.research.google.com/github/mahdi2382/Module_5/blob/main/diabetes_readmission_improved.ipynb)
 ---
 
 ## Notebook structure
